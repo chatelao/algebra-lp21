@@ -1,19 +1,103 @@
-# Übungen: Distributivgesetz
+# Übungen: Distributiv
 
-Löse die Klammern auf oder klammere gemeinsame Faktoren aus.
-
-### Ausmultiplizieren
-1. $3(x + 4)$
-2. $5(2a - 3)$
-3. $x(y + 2)$
-4. $4(3x - 5y + 2)$
-5. $0.5(8b + 10)$
-6. $-(x + 5)$
-7. $2x(x + 3)$
-8. $3(a + b) + 2(a - b)$
-
-### Ausklammern (Faktorisieren)
-9. $4x + 12$
-10. $5a - 5b$
-11. $10x + 15y$
-12. $x^2 + 3x$
+## Aufgaben
+1. Multipliziere aus: 2(a - 14)
+2. Klammere aus: {n}x + {res}y
+3. Multipliziere aus: 17(x + 13)
+4. Multipliziere aus: 18(a - 3)
+5. Klammere aus: {n}a - {res}
+6. Multipliziere aus: 7(x + 11)
+7. Multipliziere aus: 20(a - 3)
+8. Multipliziere aus: 11(x + 8)
+9. Multipliziere aus: 13(x + 5)
+10. Klammere aus: {n}x + {res}y
+11. Klammere aus: {n}x + {res}y
+12. Multipliziere aus: 14(11y + 1)
+13. Multipliziere aus: 5(a - 10)
+14. Multipliziere aus: 14(a - 4)
+15. Multipliziere aus: 10(a - 20)
+16. Multipliziere aus: 6(9y + 1)
+17. Multipliziere aus: 15(x + 12)
+18. Klammere aus: {n}a - {res}
+19. Multipliziere aus: 3(x + 17)
+20. Multipliziere aus: 13(x + 20)
+21. Klammere aus: {n}a - {res}
+22. Multipliziere aus: 12(x + 11)
+23. Klammere aus: {n}x + {res}y
+24. Klammere aus: {n}x + {res}y
+25. Klammere aus: {n}x + {res}y
+26. Multipliziere aus: 3(x + 11)
+27. Multipliziere aus: 5(4y + 1)
+28. Klammere aus: {n}a - {res}
+29. Multipliziere aus: 13(2y + 1)
+30. Klammere aus: {n}a - {res}
+31. Klammere aus: {n}a - {res}
+32. Multipliziere aus: 20(13y + 1)
+33. Multipliziere aus: 20(a - 6)
+34. Multipliziere aus: 5(a - 11)
+35. Multipliziere aus: 12(9y + 1)
+36. Klammere aus: {n}x + {res}y
+37. Klammere aus: {n}x + {res}y
+38. Klammere aus: {n}x + {res}y
+39. Multipliziere aus: 8(a - 16)
+40. Multipliziere aus: 7(x + 18)
+41. Klammere aus: {n}x + {res}y
+42. Multipliziere aus: 19(x + 6)
+43. Klammere aus: {n}a - {res}
+44. Klammere aus: {n}a - {res}
+45. Multipliziere aus: 19(a - 8)
+46. Klammere aus: {n}a - {res}
+47. Multipliziere aus: 3(x + 5)
+48. Multipliziere aus: 19(x + 15)
+49. Multipliziere aus: 10(14y + 1)
+50. Klammere aus: {n}a - {res}
+51. Klammere aus: {n}x + {res}y
+52. Klammere aus: {n}a - {res}
+53. Klammere aus: {n}x + {res}y
+54. Klammere aus: {n}a - {res}
+55. Klammere aus: {n}a - {res}
+56. Multipliziere aus: 12(a - 5)
+57. Multipliziere aus: 8(a - 13)
+58. Klammere aus: {n}x + {res}y
+59. Multipliziere aus: 10(7y + 1)
+60. Multipliziere aus: 4(19y + 1)
+61. Multipliziere aus: 14(x + 8)
+62. Klammere aus: {n}x + {res}y
+63. Klammere aus: {n}a - {res}
+64. Klammere aus: {n}a - {res}
+65. Klammere aus: {n}x + {res}y
+66. Klammere aus: {n}a - {res}
+67. Klammere aus: {n}x + {res}y
+68. Klammere aus: {n}x + {res}y
+69. Multipliziere aus: 6(a - 9)
+70. Multipliziere aus: 15(9y + 1)
+71. Multipliziere aus: 18(a - 13)
+72. Multipliziere aus: 14(x + 9)
+73. Klammere aus: {n}x + {res}y
+74. Multipliziere aus: 19(2y + 1)
+75. Multipliziere aus: 6(8y + 1)
+76. Klammere aus: {n}x + {res}y
+77. Klammere aus: {n}a - {res}
+78. Multipliziere aus: 10(6y + 1)
+79. Multipliziere aus: 3(x + 17)
+80. Klammere aus: {n}x + {res}y
+81. Multipliziere aus: 11(x + 9)
+82. Multipliziere aus: 1(11y + 1)
+83. Multipliziere aus: 19(a - 9)
+84. Klammere aus: {n}x + {res}y
+85. Klammere aus: {n}a - {res}
+86. Multipliziere aus: 7(a - 5)
+87. Klammere aus: {n}x + {res}y
+88. Klammere aus: {n}x + {res}y
+89. Klammere aus: {n}x + {res}y
+90. Multipliziere aus: 6(17y + 1)
+91. Multipliziere aus: 18(a - 2)
+92. Multipliziere aus: 8(a - 16)
+93. Klammere aus: {n}x + {res}y
+94. Klammere aus: {n}x + {res}y
+95. Multipliziere aus: 12(19y + 1)
+96. Klammere aus: {n}x + {res}y
+97. Multipliziere aus: 9(x + 1)
+98. Multipliziere aus: 16(a - 20)
+99. Multipliziere aus: 7(a - 2)
+100. Multipliziere aus: 9(a - 7)

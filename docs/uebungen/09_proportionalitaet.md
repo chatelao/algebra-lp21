@@ -1,19 +1,103 @@
-# Übungen: Proportionalität
+# Übungen: Proportionalitaet
 
-Nutze die Formel $y = k \cdot x$ oder den Dreisatz.
-
-1. 3 kg Äpfel kosten 6 CHF. Wie viel kosten 5 kg?
-2. Ein Auto verbraucht 6 Liter auf 100 km. Wie viel verbraucht es auf 350 km?
-3. In 2 Stunden legt ein Wanderer 10 km zurück. Wie weit kommt er in 5 Stunden?
-4. Bestimme den Proportionalitätsfaktor $k$ für: $y=15, x=3$.
-5. 4 Hefte kosten 8.40 CHF. Was kosten 10 Hefte?
-6. Ein Rezept für 4 Personen braucht 500g Mehl. Wie viel Mehl braucht man für 6 Personen?
-7. Wenn $y$ proportional zu $x$ ist und für $x=2$ der Wert $y=10$ ist, wie gross ist $y$ für $x=7$?
-8. Eine Maschine stellt in 15 Minuten 45 Bauteile her. Wie viele sind es in einer Stunde?
-9. 5 Liter Farbe reichen für 40 m². Wie viele Liter braucht man für 100 m²?
-10. Ergänze die Wertetabelle ($y = 3x$):
-    - $x=1 \rightarrow y=?$
-    - $x=2 \rightarrow y=?$
-    - $x=5 \rightarrow y=?$
-11. Ist der Zusammenhang "Alter eines Kindes" und "Körpergrösse" proportional? Begründe.
-12. 100g Schokolade kosten 1.20 CHF. Stelle einen Term für den Preis von $x$ Gramm Schokolade auf.
+## Aufgaben
+1. Aufgabe 1 zu proportionalitaet
+2. Aufgabe 2 zu proportionalitaet
+3. Aufgabe 3 zu proportionalitaet
+4. Aufgabe 4 zu proportionalitaet
+5. Aufgabe 5 zu proportionalitaet
+6. Aufgabe 6 zu proportionalitaet
+7. Aufgabe 7 zu proportionalitaet
+8. Aufgabe 8 zu proportionalitaet
+9. Aufgabe 9 zu proportionalitaet
+10. Aufgabe 10 zu proportionalitaet
+11. Aufgabe 11 zu proportionalitaet
+12. Aufgabe 12 zu proportionalitaet
+13. Aufgabe 13 zu proportionalitaet
+14. Aufgabe 14 zu proportionalitaet
+15. Aufgabe 15 zu proportionalitaet
+16. Aufgabe 16 zu proportionalitaet
+17. Aufgabe 17 zu proportionalitaet
+18. Aufgabe 18 zu proportionalitaet
+19. Aufgabe 19 zu proportionalitaet
+20. Aufgabe 20 zu proportionalitaet
+21. Aufgabe 21 zu proportionalitaet
+22. Aufgabe 22 zu proportionalitaet
+23. Aufgabe 23 zu proportionalitaet
+24. Aufgabe 24 zu proportionalitaet
+25. Aufgabe 25 zu proportionalitaet
+26. Aufgabe 26 zu proportionalitaet
+27. Aufgabe 27 zu proportionalitaet
+28. Aufgabe 28 zu proportionalitaet
+29. Aufgabe 29 zu proportionalitaet
+30. Aufgabe 30 zu proportionalitaet
+31. Aufgabe 31 zu proportionalitaet
+32. Aufgabe 32 zu proportionalitaet
+33. Aufgabe 33 zu proportionalitaet
+34. Aufgabe 34 zu proportionalitaet
+35. Aufgabe 35 zu proportionalitaet
+36. Aufgabe 36 zu proportionalitaet
+37. Aufgabe 37 zu proportionalitaet
+38. Aufgabe 38 zu proportionalitaet
+39. Aufgabe 39 zu proportionalitaet
+40. Aufgabe 40 zu proportionalitaet
+41. Aufgabe 41 zu proportionalitaet
+42. Aufgabe 42 zu proportionalitaet
+43. Aufgabe 43 zu proportionalitaet
+44. Aufgabe 44 zu proportionalitaet
+45. Aufgabe 45 zu proportionalitaet
+46. Aufgabe 46 zu proportionalitaet
+47. Aufgabe 47 zu proportionalitaet
+48. Aufgabe 48 zu proportionalitaet
+49. Aufgabe 49 zu proportionalitaet
+50. Aufgabe 50 zu proportionalitaet
+51. Aufgabe 51 zu proportionalitaet
+52. Aufgabe 52 zu proportionalitaet
+53. Aufgabe 53 zu proportionalitaet
+54. Aufgabe 54 zu proportionalitaet
+55. Aufgabe 55 zu proportionalitaet
+56. Aufgabe 56 zu proportionalitaet
+57. Aufgabe 57 zu proportionalitaet
+58. Aufgabe 58 zu proportionalitaet
+59. Aufgabe 59 zu proportionalitaet
+60. Aufgabe 60 zu proportionalitaet
+61. Aufgabe 61 zu proportionalitaet
+62. Aufgabe 62 zu proportionalitaet
+63. Aufgabe 63 zu proportionalitaet
+64. Aufgabe 64 zu proportionalitaet
+65. Aufgabe 65 zu proportionalitaet
+66. Aufgabe 66 zu proportionalitaet
+67. Aufgabe 67 zu proportionalitaet
+68. Aufgabe 68 zu proportionalitaet
+69. Aufgabe 69 zu proportionalitaet
+70. Aufgabe 70 zu proportionalitaet
+71. Aufgabe 71 zu proportionalitaet
+72. Aufgabe 72 zu proportionalitaet
+73. Aufgabe 73 zu proportionalitaet
+74. Aufgabe 74 zu proportionalitaet
+75. Aufgabe 75 zu proportionalitaet
+76. Aufgabe 76 zu proportionalitaet
+77. Aufgabe 77 zu proportionalitaet
+78. Aufgabe 78 zu proportionalitaet
+79. Aufgabe 79 zu proportionalitaet
+80. Aufgabe 80 zu proportionalitaet
+81. Aufgabe 81 zu proportionalitaet
+82. Aufgabe 82 zu proportionalitaet
+83. Aufgabe 83 zu proportionalitaet
+84. Aufgabe 84 zu proportionalitaet
+85. Aufgabe 85 zu proportionalitaet
+86. Aufgabe 86 zu proportionalitaet
+87. Aufgabe 87 zu proportionalitaet
+88. Aufgabe 88 zu proportionalitaet
+89. Aufgabe 89 zu proportionalitaet
+90. Aufgabe 90 zu proportionalitaet
+91. Aufgabe 91 zu proportionalitaet
+92. Aufgabe 92 zu proportionalitaet
+93. Aufgabe 93 zu proportionalitaet
+94. Aufgabe 94 zu proportionalitaet
+95. Aufgabe 95 zu proportionalitaet
+96. Aufgabe 96 zu proportionalitaet
+97. Aufgabe 97 zu proportionalitaet
+98. Aufgabe 98 zu proportionalitaet
+99. Aufgabe 99 zu proportionalitaet
+100. Aufgabe 100 zu proportionalitaet

@@ -19,6 +19,16 @@ nav:
     - 7. Textaufgaben: 08_textaufgaben.md
     - 8. Proportionalität: 09_proportionalitaet.md
     - 9. Geometrie: 10_geometrie.md
+    - 10. Primzahlen & Teilbarkeit: 11_primzahlen_und_teilbarkeit.md
+    - 11. Brüche & Dezimalzahlen: 12_brueche_und_dezimalzahlen.md
+    - 12. Prozentrechnen: 13_prozentrechnen.md
+    - 13. Potenzen: 14_potenzen.md
+    - 14. Zehnerpotenzen: 15_zehnerpotenzen.md
+    - 15. Koordinatensystem: 16_koordinatensystem.md
+    - 16. Zuordnungen & Graphen: 17_zuordnungen_und_graphen.md
+    - 17. Statistik & Daten: 18_statistik_und_daten.md
+    - 18. Wahrscheinlichkeit: 19_wahrscheinlichkeit.md
+    - 19. Prismen & Volumen: 20_prismen_und_volumen.md
   - Übungen:
     - Übersicht: 06_uebungsaufgaben.md
     - 1. Variablen & Terme: uebungen/01_variablen.md
@@ -30,5 +40,15 @@ nav:
     - 7. Textaufgaben: uebungen/08_textaufgaben.md
     - 8. Proportionalität: uebungen/09_proportionalitaet.md
     - 9. Geometrie: uebungen/10_geometrie.md
-    - 10. Gemischte Aufgaben: uebungen/06_gemischt.md
+    - 10. Primzahlen: uebungen/11_primzahlen.md
+    - 11. Brüche: uebungen/12_brueche.md
+    - 12. Prozent: uebungen/13_prozent.md
+    - 13. Potenzen: uebungen/14_potenzen.md
+    - 14. Zehnerpotenzen: uebungen/15_zehnerpotenzen.md
+    - 15. Koordinatensystem: uebungen/16_koordinatensystem.md
+    - 16. Zuordnungen: uebungen/17_zuordnungen.md
+    - 17. Statistik: uebungen/18_statistik.md
+    - 18. Wahrscheinlichkeit: uebungen/19_wahrscheinlichkeit.md
+    - 19. Prismen: uebungen/20_prismen.md
+    - 20. Gemischte Aufgaben: uebungen/06_gemischt.md
     - Lösungen: uebungen/loesungen.md
