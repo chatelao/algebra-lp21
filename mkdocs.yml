@@ -4,9 +4,26 @@ theme:
 
 nav:
   - Home: index.md
-  - 1. Variablen und Terme: 01_variablen_und_terme.md
-  - 2. Terme vereinfachen: 02_terme_vereinfachen.md
-  - 3. Das Distributivgesetz: 03_distributivgesetz.md
-  - 4. Negative Zahlen: 04_negative_zahlen.md
-  - 5. Gleichungen lösen: 05_gleichungen_loesen.md
-  - 6. Übungsaufgaben: 06_uebungsaufgaben.md
+  - Lektionen:
+    - 1. Variablen und Terme: 01_variablen_und_terme.md
+    - 2. Terme vereinfachen: 02_terme_vereinfachen.md
+    - 3. Das Distributivgesetz: 03_distributivgesetz.md
+    - 4. Negative Zahlen: 04_negative_zahlen.md
+    - 5. Gleichungen lösen: 05_gleichungen_loesen.md
+    - 6. Terme auswerten: 07_terme_auswerten.md
+    - 7. Textaufgaben: 08_textaufgaben.md
+    - 8. Proportionalität: 09_proportionalitaet.md
+    - 9. Geometrie: 10_geometrie.md
+  - Übungen:
+    - Übersicht: 06_uebungsaufgaben.md
+    - 1. Variablen & Terme: uebungen/01_variablen.md
+    - 2. Vereinfachen: uebungen/02_vereinfachen.md
+    - 3. Distributivgesetz: uebungen/03_distributiv.md
+    - 4. Negative Zahlen: uebungen/04_negative_zahlen.md
+    - 5. Gleichungen: uebungen/05_gleichungen.md
+    - 6. Terme auswerten: uebungen/07_auswerten.md
+    - 7. Textaufgaben: uebungen/08_textaufgaben.md
+    - 8. Proportionalität: uebungen/09_proportionalitaet.md
+    - 9. Geometrie: uebungen/10_geometrie.md
+    - 10. Gemischte Aufgaben: uebungen/06_gemischt.md
+    - Lösungen: uebungen/loesungen.md
