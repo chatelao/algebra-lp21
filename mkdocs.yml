@@ -1,0 +1,12 @@
+site_name: Algebra-Begleiter
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - 1. Variablen und Terme: 01_variablen_und_terme.md
+  - 2. Terme vereinfachen: 02_terme_vereinfachen.md
+  - 3. Das Distributivgesetz: 03_distributivgesetz.md
+  - 4. Negative Zahlen: 04_negative_zahlen.md
+  - 5. Gleichungen lösen: 05_gleichungen_loesen.md
+  - 6. Übungsaufgaben: 06_uebungsaufgaben.md
