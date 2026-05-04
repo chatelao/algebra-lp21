@@ -1,11 +1,29 @@
 site_name: Algebra-Begleiter
 theme:
   name: material
+  language: de
+  features:
+    - navigation.sections
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
   - search
   - with-pdf:
       output_path: algebra-begleiter.pdf
+      ordered_chapter_level: 2
 
 nav:
   - Home: index.md
