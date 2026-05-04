@@ -2,6 +2,11 @@ site_name: Algebra-Begleiter
 theme:
   name: material
 
+plugins:
+  - search
+  - with-pdf:
+      output_path: algebra-begleiter.pdf
+
 nav:
   - Home: index.md
   - Lektionen:
