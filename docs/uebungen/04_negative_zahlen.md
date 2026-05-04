@@ -1,16 +1,103 @@
-# Übungen: Negative Zahlen
+# Übungen: Negative
 
-Rechne vorsichtig mit den Vorzeichen.
-
-1. $5 + (-3)$
-2. $5 - (-3)$
-3. $-8 + 10$
-4. $-4 - 6$
-5. $(-3) \cdot 5$
-6. $(-2) \cdot (-7)$
-7. $20 : (-4)$
-8. $(-15) : (-3)$
-9. $-2x + 7x$
-10. $5a - 8a$
-11. $-3(x - 4)$
-12. $-2(-5a + 3b)$
+## Aufgaben
+1. Berechne: 11 \cdot (-7)
+2. Berechne: -3 : 1
+3. Berechne: -9 - 1
+4. Berechne: 3 - 4
+5. Berechne: (-6) \cdot 11
+6. Berechne: (-18) \cdot 7
+7. Berechne: -15 : 3
+8. Berechne: 11 \cdot (-16)
+9. Berechne: -10 - 16
+10. Berechne: -10 : 1
+11. Berechne: 11 \cdot (-1)
+12. Berechne: (-2) \cdot 2
+13. Berechne: -16 : 2
+14. Berechne: 7 \cdot (-20)
+15. Berechne: 16 - 15
+16. Berechne: -11 + 17
+17. Berechne: 9 - 12
+18. Berechne: -1 : 1
+19. Berechne: -15 + 19
+20. Berechne: (-12) \cdot (-12)
+21. Berechne: 20 \cdot (-17)
+22. Berechne: (-18) \cdot (-17)
+23. Berechne: (-12) \cdot 12
+24. Berechne: 17 - 5
+25. Berechne: -3 + 9
+26. Berechne: 18 \cdot (-7)
+27. Berechne: -6 - 8
+28. Berechne: (-20) \cdot 15
+29. Berechne: -2 - 11
+30. Berechne: -13 + 19
+31. Berechne: -14 - 4
+32. Berechne: -3 - 14
+33. Berechne: -12 : 3
+34. Berechne: -24 : 4
+35. Berechne: 1 - 19
+36. Berechne: (-12) \cdot 2
+37. Berechne: 14 \cdot (-12)
+38. Berechne: -14 + 16
+39. Berechne: (-1) \cdot (-12)
+40. Berechne: (-15) \cdot (-4)
+41. Berechne: -30 : 3
+42. Berechne: -13 + 10
+43. Berechne: -16 - 20
+44. Berechne: -18 : 3
+45. Berechne: 2 \cdot (-2)
+46. Berechne: -11 + 19
+47. Berechne: -18 - 10
+48. Berechne: (-19) \cdot 11
+49. Berechne: (-10) \cdot 7
+50. Berechne: 14 - 12
+51. Berechne: -24 : 4
+52. Berechne: -5 + 6
+53. Berechne: -10 + 16
+54. Berechne: (-15) \cdot (-2)
+55. Berechne: 5 - 17
+56. Berechne: (-12) \cdot (-20)
+57. Berechne: -7 + 3
+58. Berechne: 2 \cdot (-12)
+59. Berechne: 19 - 13
+60. Berechne: -3 - 1
+61. Berechne: -19 + 4
+62. Berechne: -20 + 17
+63. Berechne: (-13) \cdot 6
+64. Berechne: -12 : 4
+65. Berechne: (-6) \cdot (-14)
+66. Berechne: -10 + 10
+67. Berechne: (-7) \cdot (-15)
+68. Berechne: 12 - 18
+69. Berechne: -28 : 4
+70. Berechne: -3 : 3
+71. Berechne: 16 - 16
+72. Berechne: (-20) \cdot (-8)
+73. Berechne: 4 - 10
+74. Berechne: (-2) \cdot 16
+75. Berechne: (-6) \cdot 20
+76. Berechne: (-10) \cdot (-16)
+77. Berechne: -19 - 5
+78. Berechne: 9 \cdot (-1)
+79. Berechne: -13 - 6
+80. Berechne: -5 + 18
+81. Berechne: -4 - 16
+82. Berechne: 20 \cdot (-4)
+83. Berechne: (-10) \cdot 1
+84. Berechne: (-13) \cdot (-1)
+85. Berechne: (-10) \cdot (-20)
+86. Berechne: -8 - 19
+87. Berechne: 10 \cdot (-4)
+88. Berechne: -1 + 7
+89. Berechne: -10 + 9
+90. Berechne: -7 : 1
+91. Berechne: -12 : 4
+92. Berechne: -45 : 5
+93. Berechne: -12 - 9
+94. Berechne: -12 - 11
+95. Berechne: (-19) \cdot 9
+96. Berechne: (-4) \cdot (-1)
+97. Berechne: (-13) \cdot 10
+98. Berechne: (-5) \cdot (-6)
+99. Berechne: (-11) \cdot 11
+100. Berechne: -5 - 17

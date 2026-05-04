@@ -1,28 +1,58 @@
-## 9. Proportionalität und Variablen
+## 9. Proportionalität
 
-Die Proportionalität ist ein wichtiges Thema in der 7. Klasse. Man kann sie sehr gut mit Variablen beschreiben.
+Proportionalität beschreibt das Verhältnis zwischen zwei Grössen. Es geht oft um Fragen wie: "Wenn ich doppelt so viel kaufe, muss ich dann auch doppelt so viel bezahlen?"
 
 ### Direkte Proportionalität
-"Je mehr, desto mehr." Wenn du doppelt so viele Äpfel kaufst, zahlst du auch den doppelten Preis.
+"Je mehr, desto mehr" (und zwar im gleichen Verhältnis).
+*Beispiel:* 1 kg Äpfel kostet 3 CHF.
+- 2 kg kosten 6 CHF.
+- 10 kg kosten 30 CHF.
+- 0 kg kosten 0 CHF (Wichtig: Der Graph einer direkten Proportionalität geht immer durch den Nullpunkt!)
 
-Das Verhältnis zwischen zwei Grössen ist immer gleich. Man nennt dieses konstante Verhältnis den **Proportionalitätsfaktor** (oft als $k$ bezeichnet).
+**Regel:** Der Quotient $\frac{y}{x}$ ist immer gleich (proportionalitätsfaktor $k$).
 
-**Die Formel:** $y = k \cdot x$
+---
 
-- $x$: Die Eingangsgrösse (z.B. Anzahl Äpfel)
-- $y$: Die Ausgangsgrösse (z.B. Gesamtpreis)
-- $k$: Der Preis pro Stück (Faktor)
+## Vertiefung: Der Dreisatz
 
-### Beispiel: Tanken
-Ein Liter Benzin kostet 1.80 CHF.
-- Wenn du 10 Liter tankst: $1.80 \cdot 10 = 18.00$ CHF
-- Wenn du $x$ Liter tankst: $1.80 \cdot x = y$ CHF
+Der Dreisatz ist das Schweizer Taschenmesser für Proportionalitätsaufgaben. Er funktioniert in drei Schritten:
+1. **Gegebene Werte:** Was wissen wir? (z.B. 5 Stück kosten 20 CHF)
+2. **Auf 1 schliessen:** Was kostet 1 Stück? ($20 : 5 = 4$ CHF)
+3. **Auf Ziel schliessen:** Was kosten 8 Stück? ($4 \cdot 8 = 32$ CHF)
 
-### Der Dreisatz mit Variablen
-Du kannst den Dreisatz nutzen, um den Faktor $k$ zu finden.
-Wenn 5 kg Kartoffeln 10 CHF kosten, was kosten dann 8 kg?
+### Tutor-Tipp: Tabelle nutzen
+Schreibe die Werte immer in eine Tabelle mit zwei Spalten. Was du links machst (z.B. $: 5$), musst du bei direkter Proportionalität auch rechts machen.
 
-1. **Für 1 kg rechnen:** $10 : 5 = 2$ CHF/kg (Das ist unser $k$!)
-2. **Auf die Zielmenge hochrechnen:** $2 \cdot 8 = 16$ CHF
+---
 
-In der Algebra-Sprache: $y = 2x$. Für $x=8$ ist $y=16$.
+## Beispielaufgaben mit Lösungsweg
+
+### Beispiel 1: Rezept umrechnen
+**Aufgabe:** Ein Rezept für 4 Personen braucht 500g Mehl. Wie viel Mehl brauchst du für 6 Personen?
+**Lösungsweg:**
+1. 4 Personen $\rightarrow$ 500g
+2. 1 Person $\rightarrow 500 : 4 = 125$g
+3. 6 Personen $\rightarrow 125 \cdot 6 = 750$g
+- **Antwort:** Man braucht 750g Mehl.
+
+### Beispiel 2: Währung umrechnen
+**Aufgabe:** Du wechselst 100 CHF in Euro und bekommst 105 EUR. Wie viele Euro bekommst du für 250 CHF?
+**Lösungsweg:**
+1. Proportionalitätsfaktor $k$ berechnen: $105 : 100 = 1.05$.
+2. Rechnen: $250 \cdot 1.05 = 262.50$.
+- **Antwort:** Du bekommst 262.50 EUR.
+
+---
+
+## Checkpoint: Teste dein Wissen
+
+*   **Frage 1:** Ist das Alter eines Menschen proportional zu seiner Körpergrösse? Warum oder warum nicht?
+*   **Frage 2:** Wenn ein Auto mit konstanter Geschwindigkeit fährt, ist die Strecke proportional zur Zeit?
+
+---
+
+## Sokratische Begleitung
+
+**Tutor-Frage:** Wenn 3 Maler 10 Stunden brauchen, um ein Haus zu streichen... brauchen dann 6 Maler 20 Stunden? Überlege kurz: Geht es schneller oder langsamer, wenn mehr Leute helfen? (Das ist ein Hinweis auf die *indirekte* Proportionalität!)
+
+**Tutor-Frage:** Schau dir den Graphen einer direkten Proportionalität an. Er ist eine Gerade. Was sagt die Steilung dieser Geraden über den Preis oder die Geschwindigkeit aus?
