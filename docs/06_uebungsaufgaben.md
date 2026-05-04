@@ -1,6 +1,6 @@
-## 6. Übungsaufgaben (Deine Hausaufgaben)
+## Übungsaufgaben (Übersicht)
 
-Versuche diese Aufgaben zu lösen, um fit zu werden:
+Hier findest du eine Auswahl an Übungen, um dein Wissen zu testen. Für mehr Übungen zu speziellen Themen schau in das Menü unter "Übungen".
 
 **Aufgabe 1: Terme vereinfachen**
 a) $4x + 7x - 2x =$
@@ -14,3 +14,6 @@ b) $2(4a - 3) =$
 a) $x + 12 = 30$
 b) $4x - 8 = 12$
 c) $2x + 5 = x + 10$
+
+---
+Die Lösungen zu diesen und vielen weiteren Aufgaben findest du im Bereich [Lösungen](uebungen/loesungen.md).
